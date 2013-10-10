@@ -1,12 +1,12 @@
-# revision 19460
+# revision 31276
 # category Package
 # catalog-ctan /macros/latex/contrib/threeparttablex
-# catalog-date 2010-07-14 16:29:05 +0200
+# catalog-date 2013-07-23 11:01:18 +0200
 # catalog-license lppl
-# catalog-version 0.2
+# catalog-version 0.3
 Name:		texlive-threeparttablex
-Version:	0.2
-Release:	2
+Version:	0.3
+Release:	1
 Summary:	Notes in longtables
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/threeparttablex
@@ -46,16 +46,3 @@ package to tables created using the longtable package.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc %{buildroot}%{_texmfdistdir}
-
-
-%changelog
-* Wed Jan 04 2012 Paulo Andrade <pcpa@mandriva.com.br> 0.2-2
-+ Revision: 756837
-- Rebuild to reduce used resources
-
-* Sat Nov 05 2011 Paulo Andrade <pcpa@mandriva.com.br> 0.2-1
-+ Revision: 719733
-- texlive-threeparttablex
-- texlive-threeparttablex
-- texlive-threeparttablex
-
