@@ -1,12 +1,12 @@
-# revision 31276
+# revision 34206
 # category Package
 # catalog-ctan /macros/latex/contrib/threeparttablex
-# catalog-date 2013-07-23 11:01:18 +0200
+# catalog-date 2014-02-26 23:03:13 +0100
 # catalog-license lppl
 # catalog-version 0.3
 Name:		texlive-threeparttablex
 Version:	0.3
-Release:	6
+Release:	7
 Summary:	Notes in longtables
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/threeparttablex
