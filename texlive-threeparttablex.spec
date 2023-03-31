@@ -1,6 +1,6 @@
 Name:		texlive-threeparttablex
 Version:	34206
-Release:	1
+Release:	2
 Summary:	Notes in longtables
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/threeparttablex
