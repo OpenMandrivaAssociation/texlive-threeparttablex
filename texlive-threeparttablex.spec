@@ -3,7 +3,7 @@ Version:	34206
 Release:	2
 Summary:	Notes in longtables
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/threeparttablex
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/threeparttablex
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/threeparttablex.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/threeparttablex.doc.r%{version}.tar.xz
